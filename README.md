@@ -28,6 +28,13 @@
 #### Database 🗃️
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Cloud ☁️
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### DevOps ⚙️
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
+
 #### Operating System 📟
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -38,4 +45,18 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-#### 💻 Full stack developer, passionate about technology and problem-solving. I am always open to exploring new technologies, expanding my knowledge, and tackling future challenges! I have a solid foundation in the key tools and languages that drive web development and am continuously learning to stay up-to-date with market trends. I am currently pursuing a degree in Systems Analysis and Development (3rd semester) at UNIFOR and work in the Information Technology Section of the 23rd Hunter Battalion, where I am responsible for the development and maintenance of the battalion's website, computer repairs, administration of Linux and Windows terminals, and network management. I have basic knowledge of English and Latin Spanish. 🤓
+## DevOps Projects 🚀
+
+- Infrastructure provisioning on AWS using Terraform
+- Server configuration automation using Ansible
+- Deployment and environment setup for full stack applications
+
+---
+
+#### 💻 Full stack developer, passionate about technology and problem-solving. I am always open to exploring new technologies, expanding my knowledge, and tackling future challenges!
+
+I have a solid foundation in the key tools and languages that drive web development and DevOps practices, including cloud infrastructure and automation.
+
+I am currently pursuing a degree in Systems Analysis and Development (4rd semester) at UNIFOR and work in the Information Technology Section of the 23rd Hunter Battalion, where I am responsible for the development and maintenance of the battalion's website, computer repairs, administration of Linux and Windows terminals, and network management.
+
+I have basic knowledge of English and Latin Spanish. 🤓
